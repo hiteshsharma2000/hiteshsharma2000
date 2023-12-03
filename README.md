@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Hitesh sharma</h1>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Hitesh sharma</h1>
 <h4 align="center">I'm a passionate Frontend developer  who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code ✨.</h4>
 
 🌍 I'm based in Rajasthan, India
