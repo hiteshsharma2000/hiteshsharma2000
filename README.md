@@ -8,7 +8,7 @@
 
 🚀 I have learned couple of CSS libraries like Chakra UI,tailwind css & styled-components.
 
-😃 My interest includes 
+😃 My interest includes sports , coding.
 
 
 - 📫 How to reach me: ...
