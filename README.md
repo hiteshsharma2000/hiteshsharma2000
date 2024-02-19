@@ -1,12 +1,12 @@
 ### Hi there 👋
 <h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Hitesh sharma</h1>
-<h4 align="center">I'm a passionate Frontend developer  who likes to do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code ✨.</h4>
+<h4 align="center">I'm a passionate Full Stack developer  who likes to do experiments and always ready for learning new things 😃. My focus lies in crafting clean, elegant, and efficient code across the entire stack. I'm always eager to embrace new technologies and methodologies to enhance my skills and deliver top-notch solutions ✨.</h4>
 
 🌍 I'm based in Rajasthan, India
 
-⚛️ Some technologies that I love to working with includes javascript,React
+⚛️ Some technologies that I love to working with includes javascript,React,Node js,Mongo DB
 
-🚀 I have learned couple of CSS libraries like Chakra UI,tailwind css & styled-components.
+🚀 I have learned couple of CSS libraries like Chakra UI,tailwind css,Bootstrap & styled-components.
 
 😃 My interest includes sports , coding.
 
@@ -25,7 +25,9 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Expressjs](https://img.shields.io/badge/Expressjs-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+![MongoDB](https://img.shields.io/badge/Mongo DB-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
 ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
